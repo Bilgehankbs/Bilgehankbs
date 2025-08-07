@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilgehan Akbaş</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="center">
+<p>
   🎓 Gazi Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim<br>
   🤖 Makine öğrenmesi, Doğal Dil İşleme (NLP) ve Derin Öğrenme alanlarında çalışmalar yapıyorum<br>
   🔬 Yapay zeka teknolojilerine olan tutkum ve sürekli öğrenme isteğimle bu alanlarda kendimi geliştirmeye odaklanıyorum
